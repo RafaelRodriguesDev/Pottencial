@@ -5,8 +5,9 @@ Pessoa pessoa1 = new Pessoa();
 pessoa1.Nome= "Rafael";
 pessoa1.Idade = 28;
 pessoa1.Apresentar();
-
+Console.WriteLine("#######################################");
 // Pessoa Pessoa_FisicaRepresentacao = new Pessoa();
+Console.WriteLine("########## Operadores Parte 1 #########");
 
 string apresentacao = "olá, seja bem vindo";
 
@@ -29,3 +30,81 @@ Console.WriteLine(dataAtual);
 
 DateTime dataAtual2 = DateTime.Now.AddDays(5);
 Console.WriteLine(dataAtual2);
+
+Console.WriteLine("#######################################");
+// tipo operadores em C#
+Console.WriteLine("########## Operadores Parte 2 #########");
+
+int a = 10;
+int b = 20;
+
+int c = a+b ;
+
+c = c + 5 ;
+
+int inteiro = 5;
+string d = inteiro.ToString();
+
+Console.WriteLine(c);
+Console.WriteLine(d);
+
+
+Console.WriteLine("#######################################");
+// tipo operadores em C#
+Console.WriteLine("########## Operadores Parte 3 #########");
+
+int quantidadeEmEstoque = 3;
+int quantidadeCompra = 0;
+bool possivelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
+
+    Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}.");
+    Console.WriteLine($"Qauntidade compra: {quantidadeCompra}");
+    Console.WriteLine($"É possivel realizar a venda ? {possivelVenda}");
+
+if(quantidadeCompra == 0)
+{
+    Console.WriteLine("Venda inválida");
+}
+if(possivelVenda)
+{
+    Console.WriteLine("Venda realizada.");
+}
+else{
+    Console.WriteLine("Desculpe. Não temos a quantidade desejada em estoque.");
+}
+
+Console.WriteLine("-----------------------------------------");
+
+// switch case
+
+Console.WriteLine("Digite uma Letra");
+string letra = Console.ReadLine();
+
+switch(letra)   
+{
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+        Console.WriteLine("Vogal");
+        break;
+
+        default:
+        Console.WriteLine("não é vogal");
+        break;
+}
+
+Console.WriteLine("-----------------------------------------");
+
+// operadores logicos
+
+bool ehMaiorDeIdade = false;
+bool possuiAutorizacaoDoResponsavel = false;
+if(ehMaiorDeIdade || possuiAutorizacaoDoResponsavel)
+{
+    Console.WriteLine("Entrada liberada!");
+}
+else{
+    Console.WriteLine("Entrada não liberada");
+}
