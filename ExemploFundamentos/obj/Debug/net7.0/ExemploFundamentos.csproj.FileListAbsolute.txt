@@ -1,0 +1,15 @@
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.csproj.AssemblyReference.cache
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.exe
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.deps.json
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.runtimeconfig.json
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.dll
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\bin\Debug\net7.0\ExemploFundamentos.pdb
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.dll
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\obj\Debug\net7.0\refint\ExemploFundamentos.dll
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.pdb
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Github\Pottencial\Pottencial\ExemploFundamentos\obj\Debug\net7.0\ref\ExemploFundamentos.dll
